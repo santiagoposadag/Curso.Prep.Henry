@@ -1,0 +1,5 @@
+Variables: Son espacios en donde vamos a poder guardar informacion poniendole una referencia para luego poder llamar esa informacion cuando la necesitemos.
+Strings: Strings son un tipo de dato que se puede almacenar por ejemplo en una variable, String hace alucion a cadena de caracteres 
+Funciones: es un conjunto de procesos que podemos ejecutar llamando esta "funcion", por medio de el nombre que se le asigna cuando esta se crea, ademas de eso, a la funcion se le puden pasar argumentos que son los que va a utilizar para la ejecucion del proceso interno y ademas de eso puede devolver algo deseado.
+Declaracion if: la declaracion if nos permite evaluar si una afrimacion es verdadera o falsa, y dependiendo de la respuesta seguir un curso de codigo determinado. 
+valores booleanos: son valores que solo tienen dos posibilidades, en este caso True or False, Verdadero o falso, lo que nos permite bifurcar el camino de el codigo en dos opciones de procesos dependiendo precisamente del valor booleano utilizando a su vez por ejemplo una declaracion IF.
