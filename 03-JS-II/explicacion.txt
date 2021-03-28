@@ -1,0 +1,8 @@
+for: un ciclo for es un bucle, ¿cómo asi que un bucle? Si, algo que se repite indefinidamente hasta que una condicion se cumpla, este ciclo for tiene su sitaxis para que pueda funcionar,
+escribimos for abrimos parentesis ()y dentro del parentesis agregamos tres argumentos separados por punto y coma, el primer argumento es algo llamado contdor, el segundo es la condicion que queremos que se evalue cada ve, y por ultimo aumentamos el contador en la medida que deseamos
+
+&&: esta expresion nos permite evaluar dos expresiones haciendo el requerimiento de que ambas expresiones sean verdaderas, este es el operador AND o y
+
+||: este operador nos permite evaluar dos expresiones y que al menos una sea verdadera.
+
+!: este operador nos permie negar o indicar exactamente lo contrario de algo que estamos escribiendo
