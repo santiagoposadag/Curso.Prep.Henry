@@ -1,0 +1,1 @@
+Array: un arreglo o array es como una lista de elementos ordenado, en el cual puedes guardar un numero indefinido de datos, de cualquier tipo e incluso mezclarlos.
