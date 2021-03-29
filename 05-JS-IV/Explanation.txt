@@ -1,0 +1,9 @@
+Objetos: los objetos es com por decir una caja a la cual le pegamos un tiquete que nos permite abrirla cuando queramos, en esta caja podemos guardar cajas mas pequeñas con nombre propio igual y a su vez contenido, la ventaja de los objetos es que dentro de ellos se pude almacenar todo tipo de datos, por ejemplo las cajas interiores pueden ser, otros objetos, metodos, strings, numeros, arrays, etc...
+
+Propiedades: como describia anteriormente las propiedades de un objeto son como las pequeñas cajas que estan dentro de la caja principal, estas pueden ser de todo tipo de datos.
+
+Métodos: los metodos son  exactamente igual a una función, la diferencia es que al estar definidas dentro de un objeto se le denomina Metodo.
+
+Bucle for…in: este bucle fue diseñado con la finalidad de poder recorrer todos las propiedades de un objto y la sintaxis es practicamente igual que la del bucle for convencional pero con otros parametros, for(var clave in nombreObjeto), clave es una variable que va a tomar el nombre de la propiedades la cual se esta iterando en ese instante y se va a revisar en el objet que declaremos en el segndo argumento.
+
+Notación de puntos vs notación de corchetes: las dos sirven para practicamente lo mismo y la notacion de puntuacion es la que vamos a utilizar con mayor frecuencia, pero la notacion de corchetes nos sirve para utilizar como indice una variable, lo cual no nos será permitido con la notacion de puntuacion.
